@@ -529,7 +529,7 @@ This will be the domain used by your server's users to access the **authenticati
 
 ##### [fa=key /] Administration password
 
-This password will be used to access to your server's administration interface. You will also use it to connect [via **SSH**](/ssh) or [**SFTP**](/filezilla). In general terms, this is your **system's key**, choose it carefully!
+This password will be used to access your server's administration interface. You will also use it to connect [via **SSH**](/ssh) or [**SFTP**](/filezilla). In general terms, this is your **system's key**, choose it carefully!
 
 ## [fa=user /] Create a first user
 
